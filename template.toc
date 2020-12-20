@@ -1,0 +1,136 @@
+\contentsline {section}{\numberline {1}图论}{5}{section.1}%
+\contentsline {subsection}{\numberline {1.1}最短路}{5}{subsection.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.1}堆优化Dijkstra}{5}{subsubsection.1.1.1}%
+\contentsline {subsubsection}{\numberline {1.1.2}spfa}{6}{subsubsection.1.1.2}%
+\contentsline {subsubsection}{\numberline {1.1.3}floyd求传递闭包}{7}{subsubsection.1.1.3}%
+\contentsline {subsubsection}{\numberline {1.1.4}floyd求最小环}{8}{subsubsection.1.1.4}%
+\contentsline {subsubsection}{\numberline {1.1.5}johnson全源最短路}{9}{subsubsection.1.1.5}%
+\contentsline {subsubsection}{\numberline {1.1.6}差分约束系统}{11}{subsubsection.1.1.6}%
+\contentsline {subsubsection}{\numberline {1.1.7}经典例题}{12}{subsubsection.1.1.7}%
+\contentsline {subsubsection}{\numberline {1.1.8}SCOI2011 糖果}{13}{subsubsection.1.1.8}%
+\contentsline {subsubsection}{\numberline {1.1.9}16 ccpc final G}{15}{subsubsection.1.1.9}%
+\contentsline {subsubsection}{\numberline {1.1.10}倍杀测量者}{21}{subsubsection.1.1.10}%
+\contentsline {subsection}{\numberline {1.2}网络流}{24}{subsection.1.2}%
+\contentsline {subsubsection}{\numberline {1.2.1}DICNIC}{24}{subsubsection.1.2.1}%
+\contentsline {subsubsection}{\numberline {1.2.2}ISAP}{25}{subsubsection.1.2.2}%
+\contentsline {subsubsection}{\numberline {1.2.3}MCMF}{28}{subsubsection.1.2.3}%
+\contentsline {subsubsection}{\numberline {1.2.4}常见思路}{29}{subsubsection.1.2.4}%
+\contentsline {subsection}{\numberline {1.3}匹配问题}{30}{subsection.1.3}%
+\contentsline {subsubsection}{\numberline {1.3.1}匈牙利}{30}{subsubsection.1.3.1}%
+\contentsline {subsubsection}{\numberline {1.3.2}HK}{31}{subsubsection.1.3.2}%
+\contentsline {subsubsection}{\numberline {1.3.3}KM-DFS}{33}{subsubsection.1.3.3}%
+\contentsline {subsubsection}{\numberline {1.3.4}KM-BFS}{35}{subsubsection.1.3.4}%
+\contentsline {subsubsection}{\numberline {1.3.5}带花树}{36}{subsubsection.1.3.5}%
+\contentsline {subsubsection}{\numberline {1.3.6}稳定婚姻问题}{38}{subsubsection.1.3.6}%
+\contentsline {subsubsection}{\numberline {1.3.7}常见思路}{38}{subsubsection.1.3.7}%
+\contentsline {subsection}{\numberline {1.4}2-SAT}{39}{subsection.1.4}%
+\contentsline {subsubsection}{\numberline {1.4.1}输出任意解}{39}{subsubsection.1.4.1}%
+\contentsline {subsubsection}{\numberline {1.4.2}输出字典序最小解}{41}{subsubsection.1.4.2}%
+\contentsline {subsubsection}{\numberline {1.4.3}思路}{42}{subsubsection.1.4.3}%
+\contentsline {subsubsection}{\numberline {1.4.4}经典例题}{42}{subsubsection.1.4.4}%
+\contentsline {subsubsection}{\numberline {1.4.5}UVA 11930}{43}{subsubsection.1.4.5}%
+\contentsline {subsubsection}{\numberline {1.4.6}cf27D}{45}{subsubsection.1.4.6}%
+\contentsline {subsection}{\numberline {1.5}强连通}{48}{subsection.1.5}%
+\contentsline {subsubsection}{\numberline {1.5.1}有向可有环图}{48}{subsubsection.1.5.1}%
+\contentsline {subsection}{\numberline {1.6}双连通}{49}{subsection.1.6}%
+\contentsline {subsubsection}{\numberline {1.6.1}割点 桥}{49}{subsubsection.1.6.1}%
+\contentsline {subsubsection}{\numberline {1.6.2}船新版本}{51}{subsubsection.1.6.2}%
+\contentsline {subsubsection}{\numberline {1.6.3}思路}{52}{subsubsection.1.6.3}%
+\contentsline {subsubsection}{\numberline {1.6.4}经典例题}{53}{subsubsection.1.6.4}%
+\contentsline {subsubsection}{\numberline {1.6.5}POJ 2942}{54}{subsubsection.1.6.5}%
+\contentsline {subsubsection}{\numberline {1.6.6}UVA 10972}{58}{subsubsection.1.6.6}%
+\contentsline {subsubsection}{\numberline {1.6.7}T103492}{59}{subsubsection.1.6.7}%
+\contentsline {subsubsection}{\numberline {1.6.8}P1407}{61}{subsubsection.1.6.8}%
+\contentsline {subsection}{\numberline {1.7}欧拉回路}{63}{subsection.1.7}%
+\contentsline {subsubsection}{\numberline {1.7.1}模板}{63}{subsubsection.1.7.1}%
+\contentsline {subsubsection}{\numberline {1.7.2}知识点}{64}{subsubsection.1.7.2}%
+\contentsline {subsubsection}{\numberline {1.7.3}经典例题}{65}{subsubsection.1.7.3}%
+\contentsline {subsubsection}{\numberline {1.7.4}cf 21D}{65}{subsubsection.1.7.4}%
+\contentsline {subsection}{\numberline {1.8}LCA}{66}{subsection.1.8}%
+\contentsline {subsubsection}{\numberline {1.8.1}ST表}{66}{subsubsection.1.8.1}%
+\contentsline {subsubsection}{\numberline {1.8.2}离线}{68}{subsubsection.1.8.2}%
+\contentsline {subsection}{\numberline {1.9}最大团}{69}{subsection.1.9}%
+\contentsline {subsubsection}{\numberline {1.9.1}Bron-Kerbosch}{69}{subsubsection.1.9.1}%
+\contentsline {subsubsection}{\numberline {1.9.2}常见思路}{70}{subsubsection.1.9.2}%
+\contentsline {subsection}{\numberline {1.10}拓扑排序}{70}{subsection.1.10}%
+\contentsline {subsubsection}{\numberline {1.10.1}toposort}{70}{subsubsection.1.10.1}%
+\contentsline {section}{\numberline {2}计算几何}{71}{section.2}%
+\contentsline {subsection}{\numberline {2.1}点}{71}{subsection.2.1}%
+\contentsline {subsection}{\numberline {2.2}线}{73}{subsection.2.2}%
+\contentsline {subsection}{\numberline {2.3}圆}{76}{subsection.2.3}%
+\contentsline {subsection}{\numberline {2.4}多边形}{77}{subsection.2.4}%
+\contentsline {subsection}{\numberline {2.5}半平面交}{80}{subsection.2.5}%
+\contentsline {subsection}{\numberline {2.6}function}{81}{subsection.2.6}%
+\contentsline {subsection}{\numberline {2.7}注意点}{82}{subsection.2.7}%
+\contentsline {subsection}{\numberline {2.8}常出现的模型}{83}{subsection.2.8}%
+\contentsline {subsection}{\numberline {2.9}奇怪的技巧}{83}{subsection.2.9}%
+\contentsline {subsection}{\numberline {2.10}凸包}{83}{subsection.2.10}%
+\contentsline {subsubsection}{\numberline {2.10.1}判断是否是稳定凸包}{83}{subsubsection.2.10.1}%
+\contentsline {subsection}{\numberline {2.11}旋转卡壳}{84}{subsection.2.11}%
+\contentsline {subsubsection}{\numberline {2.11.1}SCOI2007 最大土地面积}{84}{subsubsection.2.11.1}%
+\contentsline {subsection}{\numberline {2.12}扫描线}{90}{subsection.2.12}%
+\contentsline {subsubsection}{\numberline {2.12.1}矩形面积交 hdu1255}{90}{subsubsection.2.12.1}%
+\contentsline {subsubsection}{\numberline {2.12.2}面积并 坐标double版}{92}{subsubsection.2.12.2}%
+\contentsline {subsubsection}{\numberline {2.12.3}面积并 坐标i64版 O(nlgn)}{94}{subsubsection.2.12.3}%
+\contentsline {subsubsection}{\numberline {2.12.4}周长并 O(nlgn)}{95}{subsubsection.2.12.4}%
+\contentsline {subsection}{\numberline {2.13}半平面交}{97}{subsection.2.13}%
+\contentsline {subsubsection}{\numberline {2.13.1}经典例题}{97}{subsubsection.2.13.1}%
+\contentsline {subsubsection}{\numberline {2.13.2}codechef ALLPOLY}{97}{subsubsection.2.13.2}%
+\contentsline {subsection}{\numberline {2.14}不知道分在哪一类}{104}{subsection.2.14}%
+\contentsline {subsubsection}{\numberline {2.14.1}经典例题}{104}{subsubsection.2.14.1}%
+\contentsline {subsubsection}{\numberline {2.14.2}cf 598C}{104}{subsubsection.2.14.2}%
+\contentsline {subsubsection}{\numberline {2.14.3}2020ZJ省赛 H}{105}{subsubsection.2.14.3}%
+\contentsline {section}{\numberline {3}数据结构}{108}{section.3}%
+\contentsline {subsection}{\numberline {3.1}线段树}{108}{subsection.3.1}%
+\contentsline {subsubsection}{\numberline {3.1.1}线段树\_区间合并 hotel}{108}{subsubsection.3.1.1}%
+\contentsline {subsection}{\numberline {3.2}树状数组}{110}{subsection.3.2}%
+\contentsline {subsubsection}{\numberline {3.2.1}逆序对}{110}{subsubsection.3.2.1}%
+\contentsline {subsection}{\numberline {3.3}主席树}{111}{subsection.3.3}%
+\contentsline {subsubsection}{\numberline {3.3.1}静态查询区间第k大}{111}{subsubsection.3.3.1}%
+\contentsline {subsubsection}{\numberline {3.3.2}动态查询区间第k大}{112}{subsubsection.3.3.2}%
+\contentsline {subsection}{\numberline {3.4}字典树}{114}{subsection.3.4}%
+\contentsline {subsubsection}{\numberline {3.4.1}trie树}{114}{subsubsection.3.4.1}%
+\contentsline {section}{\numberline {4}字符串}{115}{section.4}%
+\contentsline {subsection}{\numberline {4.1}KMP}{115}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}exKMP}{116}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Manacher}{117}{subsection.4.3}%
+\contentsline {section}{\numberline {5}dp}{118}{section.5}%
+\contentsline {subsection}{\numberline {5.1}树形dp}{118}{subsection.5.1}%
+\contentsline {subsubsection}{\numberline {5.1.1}树的重心}{118}{subsubsection.5.1.1}%
+\contentsline {subsubsection}{\numberline {5.1.2}树上最远距离}{119}{subsubsection.5.1.2}%
+\contentsline {section}{\numberline {6}树上问题}{120}{section.6}%
+\contentsline {subsection}{\numberline {6.1}树的直径}{120}{subsection.6.1}%
+\contentsline {section}{\numberline {7}STL}{121}{section.7}%
+\contentsline {subsection}{\numberline {7.1}自定义排序}{121}{subsection.7.1}%
+\contentsline {subsection}{\numberline {7.2}nth\_element}{122}{subsection.7.2}%
+\contentsline {section}{\numberline {8}其他问题}{122}{section.8}%
+\contentsline {subsection}{\numberline {8.1}ST表}{122}{subsection.8.1}%
+\contentsline {subsubsection}{\numberline {8.1.1}ST表}{122}{subsubsection.8.1.1}%
+\contentsline {subsection}{\numberline {8.2}莫队}{123}{subsection.8.2}%
+\contentsline {subsubsection}{\numberline {8.2.1}复杂度}{123}{subsubsection.8.2.1}%
+\contentsline {subsubsection}{\numberline {8.2.2}普通莫队 LOJ 1188 O(根号n乘q)}{123}{subsubsection.8.2.2}%
+\contentsline {subsubsection}{\numberline {8.2.3}带修改莫队 cf 940F}{124}{subsubsection.8.2.3}%
+\contentsline {subsection}{\numberline {8.3}二分注意点}{127}{subsection.8.3}%
+\contentsline {subsection}{\numberline {8.4}LIS}{127}{subsection.8.4}%
+\contentsline {subsection}{\numberline {8.5}尺取法}{128}{subsection.8.5}%
+\contentsline {subsection}{\numberline {8.6}单调队列}{128}{subsection.8.6}%
+\contentsline {subsection}{\numberline {8.7}一句话去重 并生成新数组}{129}{subsection.8.7}%
+\contentsline {subsection}{\numberline {8.8}输入一行看有多少个数}{130}{subsection.8.8}%
+\contentsline {subsection}{\numberline {8.9}最小（大）表示法}{130}{subsection.8.9}%
+\contentsline {subsection}{\numberline {8.10}随机数}{130}{subsection.8.10}%
+\contentsline {subsection}{\numberline {8.11}输入日期输出周几}{131}{subsection.8.11}%
+\contentsline {section}{\numberline {9}黑科技}{131}{section.9}%
+\contentsline {subsection}{\numberline {9.1}IO}{131}{subsection.9.1}%
+\contentsline {subsubsection}{\numberline {9.1.1}快读模板}{131}{subsubsection.9.1.1}%
+\contentsline {subsubsection}{\numberline {9.1.2}\_\_int128 输入输出模板}{132}{subsubsection.9.1.2}%
+\contentsline {subsection}{\numberline {9.2}istringstream}{132}{subsection.9.2}%
+\contentsline {subsection}{\numberline {9.3}unordered\_map 防hack模板}{133}{subsection.9.3}%
+\contentsline {subsection}{\numberline {9.4}杜教BM}{133}{subsection.9.4}%
+\contentsline {subsection}{\numberline {9.5}模拟退火}{135}{subsection.9.5}%
+\contentsline {section}{\numberline {10}大数}{136}{section.10}%
+\contentsline {subsection}{\numberline {10.1}java}{136}{subsection.10.1}%
+\contentsline {subsubsection}{\numberline {10.1.1}坑点}{136}{subsubsection.10.1.1}%
+\contentsline {subsubsection}{\numberline {10.1.2}输入}{137}{subsubsection.10.1.2}%
+\contentsline {subsubsection}{\numberline {10.1.3}注意点}{137}{subsubsection.10.1.3}%
+\contentsline {subsection}{\numberline {10.2}python}{137}{subsection.10.2}%
+\contentsline {subsubsection}{\numberline {10.2.1}python}{137}{subsubsection.10.2.1}%
